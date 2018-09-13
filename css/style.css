@@ -492,7 +492,7 @@ header {
     position: absolute;
     top: 40px;
     left: -72px;
-    z-index: 1;
+    z-index: 100;
 }
 
 .mega_triangle {
@@ -504,8 +504,8 @@ header {
     border-left: 1px solid #e8e8e8;
     position: absolute;
     top: 35px;
-    left: 11px;
-    z-index: 2;
+    left: 22px;
+    z-index: 101;
     transform: rotate(45deg);
 }
 
